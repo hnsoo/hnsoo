@@ -9,4 +9,4 @@
 
 📝 <I>[RESUME](https://hnsoo.notion.site/2ae26421a49d406786dd86000e1828fb)</I>    
 📁 <I>[PORTFOLIO](https://hnsoo.notion.site/c9ff0f5fa9a84281bdf25e9868f0fe4f?v=a17e817f305f475c9c31e5769df34918)</I>      
-✏️ <I>[Blog]()</I>   
+✏️ <I>[BLOG]()</I>   
